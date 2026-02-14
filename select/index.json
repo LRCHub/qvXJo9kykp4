@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "過火",
+  "base_artist": "張信哲",
+  "createdAt": "2026-02-14T09:56:36.454799Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "過火 (Live)",
+      "artist": "張信哲 feat. 伊黎哈穆, 閃爍 & 陳沁",
+      "has_synced": true,
+      "path": "select/01_過火_(Live)_張信哲_feat._伊黎哈穆,_閃爍_&_陳沁.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "過火",
+      "artist": "張信哲",
+      "has_synced": true,
+      "path": "select/02_過火_張信哲.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "過火",
+      "artist": "Jeff Chang",
+      "has_synced": true,
+      "path": "select/03_過火_Jeff_Chang.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "過火",
+      "artist": "Jeff Chang",
+      "has_synced": true,
+      "path": "select/04_過火_Jeff_Chang.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "過火",
+      "artist": "張信哲",
+      "has_synced": true,
+      "path": "select/05_過火_張信哲.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "過火",
+      "artist": "张信哲",
+      "has_synced": true,
+      "path": "select/06_過火_张信哲.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "過火",
+      "artist": "张信哲",
+      "has_synced": true,
+      "path": "select/07_過火_张信哲.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "過火",
+      "artist": "张信哲",
+      "has_synced": true,
+      "path": "select/08_過火_张信哲.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "過火",
+      "artist": "Chang Jeff (張信哲)",
+      "has_synced": true,
+      "path": "select/09_過火_Chang_Jeff_(張信哲).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "過火",
+      "artist": "張信哲",
+      "has_synced": false,
+      "path": "select/pl_01_過火_張信哲.txt"
+    }
+  ]
+}
